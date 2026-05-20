@@ -137,14 +137,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocekic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&ring_color=6AD3F7" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocekic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ocekic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&ring_color=6AD3F7&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocekic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&cache_seconds=1800" width="48%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocekic&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=ffffff" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=ocekic&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=ffffff" width="60%"/>
 </div>
 
 ---
